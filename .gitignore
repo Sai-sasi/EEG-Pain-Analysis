@@ -1,0 +1,14 @@
+# Large data files — do not upload
+data/
+*.bdf
+*.edf
+*.fif
+*.set
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+__pycache__/
+
+# Temporary files
+*.tmp
+*.log
