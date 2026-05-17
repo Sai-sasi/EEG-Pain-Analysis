@@ -33,8 +33,7 @@ University of Glasgow) which characterised cold-selective
 spinal projection neurons using patch-clamp electrophysiology.
 This project asks the translational question: do those spinal
 nociceptive circuits produce measurable cortical oscillatory
-signatures in human EEG? This is directly the question
-addressed by CNAP's research programme at Aalborg University.
+signatures in human EEG?
 
 ---
 
@@ -193,8 +192,8 @@ pip install mne numpy scipy pandas matplotlib jupyter
    - sub-001_task-26ByBiosemi_channels.tsv
 
 2. Place in:
-data/sub-001/eeg/
-3. Open and run: 
+ data/sub-001/eeg/
+4. Open and run:
 All figures are regenerated automatically.
 
 ### Environment
